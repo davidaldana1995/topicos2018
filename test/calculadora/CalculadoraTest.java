@@ -18,14 +18,6 @@ import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
-
-/**
- *
- * @author DDAP
- */
-//trabajo de topicos de avazados de la ingenieria del software
-//Dargenson David Aldana Prieto
-//1093141445
 @RunWith(value = Parameterized.class)
 public class CalculadoraTest {
     private Calculadora calc;
